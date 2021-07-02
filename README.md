@@ -15,5 +15,5 @@
 + 利用`createObjectURL`传递生成本地图片地址
 + 本项目为了增加安全性，未将任何用户信息上传至服务端，所有人可放心食用
 
-
+this is the revision for c02.
 
